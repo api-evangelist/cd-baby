@@ -53,7 +53,7 @@ common:
     url: https://cdbaby.com/music-distribution/
   - type: Pricing
     url: https://cdbaby.com/cd-baby-cost/
-  - type: SignUp
+  - type: Signup
     url: https://members.cdbaby.com/sign-up
   - type: MemberPortal
     url: https://members.cdbaby.com
