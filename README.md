@@ -1,4 +1,4 @@
-# cd-baby
+# CD Baby
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,83 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-CD Baby — independent music distribution and publishing administration (Downtown / Virgin Music Group)
+CD Baby is an independent music distribution and publishing administration service for songwriters, performers, and independent record labels. Founded in 1998 and now part of Downtown Music Holdings under Virgin Music Group, CD Baby services over 50 million music assets from creators in hundreds of countries across six continents. The platform distributes music to 150+ digital service providers including Spotify, Apple Music, YouTube, Pandora, Tidal, TikTok, Amazon, Shazam, and Deezer, and is a flagship member of YouTube's Preferred Distributor Program plus a preferred partner with Apple and Spotify. Services include digital distribution, physical CD and vinyl manufacturing, publishing administration, cover song licensing, sync licensing through CDB Boost, YouTube and social monetization, performing rights organization (ASCAP, BMI, SOCAN) registration assistance, and promotion tools via SymphonyOS, HearNow, Show.co, Managed Ads, Groover, Laylo, and Internet Radio Airplay. Pricing is a one-time fee ($9.99 single, $14.99 album) with artists retaining over 90% of earnings. CD Baby has paid out more than $1 billion to artists. CD Baby has no public developer API, SDK, or open-source release; all distribution and reporting workflows are exposed only through the artist member portal at members.cdbaby.com.
+
+**Areas:** Music · Music Distribution · Music Publishing · Publishing Administration · Independent Artists · Songwriters · Streaming · Sync Licensing · Royalties · Cover Song Licensing · YouTube Monetization · Performing Rights
+
+## CD Baby on APIs.io
+
+Everything profiled for CD Baby is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/cd-baby/](https://apis.io/providers/cd-baby/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Cd Baby Domain Security](https://apis.io/security/cd-baby/cd-baby-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://cdbaby.com)
+- [Pricing](https://cdbaby.com/cd-baby-cost/)
+- [Support](https://support.cdbaby.com)
+- [Blog](https://diymusician.cdbaby.com)
+- [Privacy policy](https://cdbaby.com/privacy-policy/)
+
+## API Evangelist rating
+
+**Kin Score 13.0** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 34.2 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 9.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/cd-baby/](https://apis.io/providers/cd-baby/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for CD Baby: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/cd-baby/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
